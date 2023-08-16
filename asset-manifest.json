@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Flash_Food/static/css/main.793f15f9.css",
+    "main.js": "/Flash_Food/static/js/main.82873110.js",
+    "static/media/logo.png": "/Flash_Food/static/media/logo.0f99324454e3c3ccba98.png",
+    "static/media/heroBg.png": "/Flash_Food/static/media/heroBg.c43c4862422e70d88698.png",
+    "static/media/delivery.png": "/Flash_Food/static/media/delivery.bf9130a0962fbe091abc.png",
+    "static/media/avatar.png": "/Flash_Food/static/media/avatar.68cdc4513e601d28a382.png",
+    "static/media/emptyCart.svg": "/Flash_Food/static/media/emptyCart.71ad17e692d71caa77c6c9351f84756b.svg",
+    "static/media/NotFound.svg": "/Flash_Food/static/media/NotFound.4e90bb93460bfd8d9e2c86b42ef91a4a.svg",
+    "index.html": "/Flash_Food/index.html",
+    "main.793f15f9.css.map": "/Flash_Food/static/css/main.793f15f9.css.map",
+    "main.82873110.js.map": "/Flash_Food/static/js/main.82873110.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.793f15f9.css",
+    "static/js/main.82873110.js"
+  ]
+}
